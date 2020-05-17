@@ -1,5 +1,5 @@
 /* eslint-disable no-undef */
-const JSONAPIPlugins = require('../../src/JSONAPIPlugins');
+const JSONAPIPlugins = require('../../lib/JSONAPIPlugins');
 
 const plugin = new JSONAPIPlugins();
 const Next = function () {

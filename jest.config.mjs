@@ -11,7 +11,7 @@ export default {
     'js',
   ],
   roots: [
-    'jest/unit',
+    'jest',
   ],
   testEnvironment: 'node',
 };

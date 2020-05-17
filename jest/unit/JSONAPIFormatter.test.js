@@ -1,5 +1,5 @@
 /* eslint-disable no-undef */
-const JSONAPIFormatter = require('../../src/JSONAPIFormatter');
+const JSONAPIFormatter = require('../../lib/JSONAPIFormatter');
 
 test('formatError() works', () => {
   const err = {

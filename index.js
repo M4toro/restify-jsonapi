@@ -1,5 +1,5 @@
-const JSONAPIPlugins = require('./JSONAPIPlugins');
-const JSONAPIFormatter = require('./JSONAPIFormatter');
+const JSONAPIPlugins = require('./lib/JSONAPIPlugins');
+const JSONAPIFormatter = require('./lib/JSONAPIFormatter');
 
 const plugins = new JSONAPIPlugins();
 
